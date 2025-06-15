@@ -1,1 +1,3 @@
-postgres:15
+--platform linux/arm64 postgres
+--platform linux/arm64 nginx
+--platform linux/arm64 redis
